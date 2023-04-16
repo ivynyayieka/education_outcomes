@@ -1,0 +1,300 @@
+,name,capital,code,sub_counties,sub_counties_lower
+0,Baringo,Kabarnet,30,Baringo central,baringo central
+0,Baringo,Kabarnet,30,Baringo north,baringo north
+0,Baringo,Kabarnet,30,Baringo south,baringo south
+0,Baringo,Kabarnet,30,Eldama ravine,eldama ravine
+0,Baringo,Kabarnet,30,Mogotio,mogotio
+0,Baringo,Kabarnet,30,Tiaty,tiaty
+1,Bomet,Bomet,36,Bomet central,bomet central
+1,Bomet,Bomet,36,Bomet east,bomet east
+1,Bomet,Bomet,36,Chepalungu,chepalungu
+1,Bomet,Bomet,36,Konoin,konoin
+1,Bomet,Bomet,36,Sotik,sotik
+2,Bungoma,Bungoma,39,Bumula,bumula
+2,Bungoma,Bungoma,39,Kabuchai,kabuchai
+2,Bungoma,Bungoma,39,Kanduyi,kanduyi
+2,Bungoma,Bungoma,39,Kimilil,kimilil
+2,Bungoma,Bungoma,39,Mt Elgon,mt elgon
+2,Bungoma,Bungoma,39,Sirisia,sirisia
+2,Bungoma,Bungoma,39,Tongaren,tongaren
+2,Bungoma,Bungoma,39,Webuye east,webuye east
+2,Bungoma,Bungoma,39,Webuye west,webuye west
+3,Busia,Busia,40,Budalangi,budalangi
+3,Busia,Busia,40,Butula,butula
+3,Busia,Busia,40,Funyula,funyula
+3,Busia,Busia,40,Nambele,nambele
+3,Busia,Busia,40,Teso North,teso north
+3,Busia,Busia,40,Teso South,teso south
+4,Elgeyo-Marakwet,Iten,28,Keiyo north,keiyo north
+4,Elgeyo-Marakwet,Iten,28,Keiyo south,keiyo south
+4,Elgeyo-Marakwet,Iten,28,Marakwet east,marakwet east
+4,Elgeyo-Marakwet,Iten,28,Marakwet west,marakwet west
+5,Embu,Embu,14,Manyatta,manyatta
+5,Embu,Embu,14,Mbeere north,mbeere north
+5,Embu,Embu,14,Mbeere south,mbeere south
+5,Embu,Embu,14,Runyenjes,runyenjes
+6,Garissa,Garissa,7,Daadab,daadab
+6,Garissa,Garissa,7,Fafi,fafi
+6,Garissa,Garissa,7,Garissa,garissa
+6,Garissa,Garissa,7,Hulugho,hulugho
+6,Garissa,Garissa,7,Ijara,ijara
+6,Garissa,Garissa,7,Lagdera balambala,lagdera balambala
+7,Homa Bay,Homa Bay,43,Homabay town,homabay town
+7,Homa Bay,Homa Bay,43,Kabondo,kabondo
+7,Homa Bay,Homa Bay,43,Karachwonyo,karachwonyo
+7,Homa Bay,Homa Bay,43,Kasipul,kasipul
+7,Homa Bay,Homa Bay,43,Mbita,mbita
+7,Homa Bay,Homa Bay,43,Ndhiwa,ndhiwa
+7,Homa Bay,Homa Bay,43,Rangwe,rangwe
+7,Homa Bay,Homa Bay,43,Suba,suba
+8,Isiolo,Isiolo,11,Isiolo,isiolo
+8,Isiolo,Isiolo,11,Garba tula,garba tula
+8,Isiolo,Isiolo,11,Merit,merit
+9,Kajiado,,34,Isinya.,isinya.
+9,Kajiado,,34,Kajiado Central.,kajiado central.
+9,Kajiado,,34,Kajiado North.,kajiado north.
+9,Kajiado,,34,Loitokitok.,loitokitok.
+9,Kajiado,,34,Mashuuru.,mashuuru.
+10,Kakamega,Kakamega,37,Butere,butere
+10,Kakamega,Kakamega,37,Kakamega central,kakamega central
+10,Kakamega,Kakamega,37,Kakamega east,kakamega east
+10,Kakamega,Kakamega,37,Kakamega north,kakamega north
+10,Kakamega,Kakamega,37,Kakamega south,kakamega south
+10,Kakamega,Kakamega,37,Khwisero,khwisero
+10,Kakamega,Kakamega,37,Lugari,lugari
+10,Kakamega,Kakamega,37,Lukuyani,lukuyani
+10,Kakamega,Kakamega,37,Lurambi,lurambi
+10,Kakamega,Kakamega,37,Matete,matete
+10,Kakamega,Kakamega,37,Mumias,mumias
+10,Kakamega,Kakamega,37,Mutungu,mutungu
+10,Kakamega,Kakamega,37,Navakholo,navakholo
+11,Kericho,Kericho,35,Ainamoi,ainamoi
+11,Kericho,Kericho,35,Belgut,belgut
+11,Kericho,Kericho,35,Bureti,bureti
+11,Kericho,Kericho,35,Kipkelion east,kipkelion east
+11,Kericho,Kericho,35,Kipkelion west,kipkelion west
+11,Kericho,Kericho,35,Soin sigowet,soin sigowet
+12,Kiambu,Kiambu,22,Gatundu north,gatundu north
+12,Kiambu,Kiambu,22,Gatundu south,gatundu south
+12,Kiambu,Kiambu,22,Githunguri,githunguri
+12,Kiambu,Kiambu,22,Juja,juja
+12,Kiambu,Kiambu,22,Kabete,kabete
+12,Kiambu,Kiambu,22,Kiambaa,kiambaa
+12,Kiambu,Kiambu,22,Kiambu,kiambu
+12,Kiambu,Kiambu,22,Kikuyu,kikuyu
+12,Kiambu,Kiambu,22,Limuru,limuru
+12,Kiambu,Kiambu,22,Ruiru,ruiru
+12,Kiambu,Kiambu,22,Thika town,thika town
+12,Kiambu,Kiambu,22,lari,lari
+13,Kilifi,Kilifi,3,Genzw,genzw
+13,Kilifi,Kilifi,3,Kaloleni,kaloleni
+13,Kilifi,Kilifi,3,Kilifi north,kilifi north
+13,Kilifi,Kilifi,3,Kilifi south,kilifi south
+13,Kilifi,Kilifi,3,Magarini,magarini
+13,Kilifi,Kilifi,3,Malindi,malindi
+13,Kilifi,Kilifi,3,Rabai,rabai
+14,Kirinyaga,Kerugoya/Kutus,20,Kirinyaga central,kirinyaga central
+14,Kirinyaga,Kerugoya/Kutus,20,Kirinyaga east,kirinyaga east
+14,Kirinyaga,Kerugoya/Kutus,20,Kirinyaga west,kirinyaga west
+14,Kirinyaga,Kerugoya/Kutus,20,Mwea east,mwea east
+14,Kirinyaga,Kerugoya/Kutus,20,Mwea west,mwea west
+15,Kisii,Kisii,45,,
+16,Kisumu,Kisumu,42,Kisumu central,kisumu central
+16,Kisumu,Kisumu,42,Kisumu east ,kisumu east 
+16,Kisumu,Kisumu,42,Kisumu west,kisumu west
+16,Kisumu,Kisumu,42,Mohoroni,mohoroni
+16,Kisumu,Kisumu,42,Nyakach,nyakach
+16,Kisumu,Kisumu,42,Nyando,nyando
+16,Kisumu,Kisumu,42,Seme,seme
+17,Kitui,Kitui,15,Ikutha,ikutha
+17,Kitui,Kitui,15,Katulani,katulani
+17,Kitui,Kitui,15,Kisasi,kisasi
+17,Kitui,Kitui,15,Kitui central,kitui central
+17,Kitui,Kitui,15,Kitui west ,kitui west 
+17,Kitui,Kitui,15,Lower yatta,lower yatta
+17,Kitui,Kitui,15,Matiyani,matiyani
+17,Kitui,Kitui,15,Migwani,migwani
+17,Kitui,Kitui,15,Mutitu,mutitu
+17,Kitui,Kitui,15,Mutomo,mutomo
+17,Kitui,Kitui,15,Muumonikyusu,muumonikyusu
+17,Kitui,Kitui,15,Mwingi central,mwingi central
+17,Kitui,Kitui,15,Mwingi east,mwingi east
+17,Kitui,Kitui,15,Nzambani,nzambani
+17,Kitui,Kitui,15,Tseikuru,tseikuru
+18,Kwale,Kwale,2,Kinango,kinango
+18,Kwale,Kwale,2,Lungalunga,lungalunga
+18,Kwale,Kwale,2,Msambweni,msambweni
+18,Kwale,Kwale,2,Mutuga,mutuga
+19,Laikipia,Rumuruti,31,Laikipia central,laikipia central
+19,Laikipia,Rumuruti,31,Laikipia east,laikipia east
+19,Laikipia,Rumuruti,31,Laikipia north,laikipia north
+19,Laikipia,Rumuruti,31,Laikipia west ,laikipia west 
+19,Laikipia,Rumuruti,31,Nyahururu,nyahururu
+20,Lamu,Lamu,5,Lamu East,lamu east
+20,Lamu,Lamu,5,Lamu West,lamu west
+21,Machakos,Machakos,16,Kathiani,kathiani
+21,Machakos,Machakos,16,Machakos town,machakos town
+21,Machakos,Machakos,16,Masinga,masinga
+21,Machakos,Machakos,16,Matungulu,matungulu
+21,Machakos,Machakos,16,Mavoko,mavoko
+21,Machakos,Machakos,16,Mwala,mwala
+21,Machakos,Machakos,16,Yatta,yatta
+22,Makueni,Wote,17,Kaiti,kaiti
+22,Makueni,Wote,17,Kibwei west,kibwei west
+22,Makueni,Wote,17,Kibwezi east,kibwezi east
+22,Makueni,Wote,17,Kilome,kilome
+22,Makueni,Wote,17,Makueni,makueni
+22,Makueni,Wote,17,Mbooni,mbooni
+23,Mandera,Mandera,9,Banissa,banissa
+23,Mandera,Mandera,9,Lafey,lafey
+23,Mandera,Mandera,9,Mandera East,mandera east
+23,Mandera,Mandera,9,Mandera North,mandera north
+23,Mandera,Mandera,9,Mandera South,mandera south
+23,Mandera,Mandera,9,Mandera West,mandera west
+24,Marsabit,Marsabit,10,Laisamis,laisamis
+24,Marsabit,Marsabit,10,Moyale,moyale
+24,Marsabit,Marsabit,10,North hor,north hor
+24,Marsabit,Marsabit,10,Saku,saku
+25,Meru,Meru,12,Buuri,buuri
+25,Meru,Meru,12,Igembe central,igembe central
+25,Meru,Meru,12,Igembe north,igembe north
+25,Meru,Meru,12,Igembe south,igembe south
+25,Meru,Meru,12,Imenti central,imenti central
+25,Meru,Meru,12,Imenti north,imenti north
+25,Meru,Meru,12,Imenti south,imenti south
+25,Meru,Meru,12,Tigania east,tigania east
+25,Meru,Meru,12,Tigania west,tigania west
+26,Migori,Migori,44,Awendo,awendo
+26,Migori,Migori,44,Kuria east,kuria east
+26,Migori,Migori,44,Kuria west,kuria west
+26,Migori,Migori,44,Mabera,mabera
+26,Migori,Migori,44,Ntimaru,ntimaru
+26,Migori,Migori,44,Rongo,rongo
+26,Migori,Migori,44,Suna east,suna east
+26,Migori,Migori,44,Suna west,suna west
+26,Migori,Migori,44,Uriri,uriri
+27,Mombasa,Mombasa City,1,Changamwe,changamwe
+27,Mombasa,Mombasa City,1,Jomvu,jomvu
+27,Mombasa,Mombasa City,1,Kisauni,kisauni
+27,Mombasa,Mombasa City,1,Likoni,likoni
+27,Mombasa,Mombasa City,1,Mvita,mvita
+27,Mombasa,Mombasa City,1,Nyali,nyali
+28,Murang'a,Murang'a,21,Gatanga,gatanga
+28,Murang'a,Murang'a,21,Kahuro,kahuro
+28,Murang'a,Murang'a,21,Kandara,kandara
+28,Murang'a,Murang'a,21,Kangema,kangema
+28,Murang'a,Murang'a,21,Kigumo,kigumo
+28,Murang'a,Murang'a,21,Kiharu,kiharu
+28,Murang'a,Murang'a,21,Mathioya,mathioya
+28,Murang'a,Murang'a,21,Murang’a south,murang’a south
+29,Nairobi,Nairobi City,47,Dagoretti North Sub County,dagoretti north sub county
+29,Nairobi,Nairobi City,47,Dagoretti South Sub County ,dagoretti south sub county 
+29,Nairobi,Nairobi City,47,Embakasi Central Sub Count,embakasi central sub count
+29,Nairobi,Nairobi City,47,Embakasi East Sub County,embakasi east sub county
+29,Nairobi,Nairobi City,47,Embakasi North Sub County ,embakasi north sub county 
+29,Nairobi,Nairobi City,47,Embakasi South Sub County,embakasi south sub county
+29,Nairobi,Nairobi City,47,Embakasi West Sub County,embakasi west sub county
+29,Nairobi,Nairobi City,47,Kamukunji Sub County,kamukunji sub county
+29,Nairobi,Nairobi City,47,Kasarani Sub County ,kasarani sub county 
+29,Nairobi,Nairobi City,47,Kibra Sub County ,kibra sub county 
+29,Nairobi,Nairobi City,47,Lang'ata Sub County ,lang'ata sub county 
+29,Nairobi,Nairobi City,47,Makadara Sub County,makadara sub county
+29,Nairobi,Nairobi City,47,Mathare Sub County ,mathare sub county 
+29,Nairobi,Nairobi City,47,Roysambu Sub County ,roysambu sub county 
+29,Nairobi,Nairobi City,47,Ruaraka Sub County ,ruaraka sub county 
+29,Nairobi,Nairobi City,47,Starehe Sub County ,starehe sub county 
+29,Nairobi,Nairobi City,47,Westlands Sub County ,westlands sub county 
+30,Nakuru,Nakuru,32,Bahati,bahati
+30,Nakuru,Nakuru,32,Gilgil,gilgil
+30,Nakuru,Nakuru,32,Kuresoi north,kuresoi north
+30,Nakuru,Nakuru,32,Kuresoi south,kuresoi south
+30,Nakuru,Nakuru,32,Molo,molo
+30,Nakuru,Nakuru,32,Naivasha,naivasha
+30,Nakuru,Nakuru,32,Nakuru town east,nakuru town east
+30,Nakuru,Nakuru,32,Nakuru town west,nakuru town west
+30,Nakuru,Nakuru,32,Njoro,njoro
+30,Nakuru,Nakuru,32,Rongai,rongai
+30,Nakuru,Nakuru,32,Subukia,subukia
+31,Nandi,Kapsabet,29,Aldai,aldai
+31,Nandi,Kapsabet,29,Chesumei,chesumei
+31,Nandi,Kapsabet,29,Emgwen,emgwen
+31,Nandi,Kapsabet,29,Mosop,mosop
+31,Nandi,Kapsabet,29,Namdi hills,namdi hills
+31,Nandi,Kapsabet,29,Tindiret,tindiret
+32,Narok,Narok,33,Narok east,narok east
+32,Narok,Narok,33,Narok north,narok north
+32,Narok,Narok,33,Narok south,narok south
+32,Narok,Narok,33,Narok west,narok west
+32,Narok,Narok,33,Transmara east,transmara east
+32,Narok,Narok,33,Transmara west,transmara west
+33,Nyamira,Nyamira,46,Borabu,borabu
+33,Nyamira,Nyamira,46,Manga,manga
+33,Nyamira,Nyamira,46,Masaba north,masaba north
+33,Nyamira,Nyamira,46,Nyamira north,nyamira north
+33,Nyamira,Nyamira,46,Nyamira south,nyamira south
+34,Nyandarua,Ol Kalou,18,Kinangop,kinangop
+34,Nyandarua,Ol Kalou,18,Kipipiri,kipipiri
+34,Nyandarua,Ol Kalou,18,Ndaragwa,ndaragwa
+34,Nyandarua,Ol Kalou,18,Ol Kalou,ol kalou
+34,Nyandarua,Ol Kalou,18,Ol joro orok,ol joro orok
+35,Nyeri,Nyeri,19,Kieni east,kieni east
+35,Nyeri,Nyeri,19,Kieni west,kieni west
+35,Nyeri,Nyeri,19,Mathira east,mathira east
+35,Nyeri,Nyeri,19,Mathira west,mathira west
+35,Nyeri,Nyeri,19,Mkurweni,mkurweni
+35,Nyeri,Nyeri,19,Nyeri town,nyeri town
+35,Nyeri,Nyeri,19,Othaya,othaya
+35,Nyeri,Nyeri,19,Tetu,tetu
+36,Samburu,Maralal,25,Samburu east,samburu east
+36,Samburu,Maralal,25,Samburu north,samburu north
+36,Samburu,Maralal,25,Samburu west,samburu west
+37,Siaya,Siaya,41,Alego usonga,alego usonga
+37,Siaya,Siaya,41,Bondo,bondo
+37,Siaya,Siaya,41,Gem,gem
+37,Siaya,Siaya,41,Rarieda,rarieda
+37,Siaya,Siaya,41,Ugenya,ugenya
+37,Siaya,Siaya,41,Unguja,unguja
+38,Taita-Taveta,Voi,6,Mwatate,mwatate
+38,Taita-Taveta,Voi,6,Taveta,taveta
+38,Taita-Taveta,Voi,6,Voi,voi
+38,Taita-Taveta,Voi,6,Wundanyi,wundanyi
+39,Tana River,Hola,4,Bura,bura
+39,Tana River,Hola,4,Galole,galole
+39,Tana River,Hola,4,Garsen,garsen
+40,Tharaka-Nithi,Chuka,13,Chuka,chuka
+40,Tharaka-Nithi,Chuka,13,Igambangobe,igambangobe
+40,Tharaka-Nithi,Chuka,13,Maara,maara
+40,Tharaka-Nithi,Chuka,13,Muthambi,muthambi
+40,Tharaka-Nithi,Chuka,13,Tharak north,tharak north
+40,Tharaka-Nithi,Chuka,13,Tharaka south,tharaka south
+41,Trans-Nzoia,Kitale,26,Cherangany,cherangany
+41,Trans-Nzoia,Kitale,26,Endebess,endebess
+41,Trans-Nzoia,Kitale,26,Kiminini,kiminini
+41,Trans-Nzoia,Kitale,26,Kwanza,kwanza
+41,Trans-Nzoia,Kitale,26,Saboti,saboti
+42,Turkana,Lodwar,23,Loima,loima
+42,Turkana,Lodwar,23,Turkana central,turkana central
+42,Turkana,Lodwar,23,Turkana east,turkana east
+42,Turkana,Lodwar,23,Turkana north,turkana north
+42,Turkana,Lodwar,23,Turkana south,turkana south
+43,Uasin Gishu,Eldoret,27,Ainabkoi,ainabkoi
+43,Uasin Gishu,Eldoret,27,Kapseret,kapseret
+43,Uasin Gishu,Eldoret,27,Kesses,kesses
+43,Uasin Gishu,Eldoret,27,Moiben,moiben
+43,Uasin Gishu,Eldoret,27,Soy,soy
+43,Uasin Gishu,Eldoret,27,Turbo,turbo
+44,Vihiga,Vihiga,38,Emuhaya,emuhaya
+44,Vihiga,Vihiga,38,Hamisi,hamisi
+44,Vihiga,Vihiga,38,Luanda,luanda
+44,Vihiga,Vihiga,38,Sabatia,sabatia
+44,Vihiga,Vihiga,38,vihiga,vihiga
+45,Wajir,Wajir,8,Eldas,eldas
+45,Wajir,Wajir,8,Tarbaj,tarbaj
+45,Wajir,Wajir,8,Wajir East,wajir east
+45,Wajir,Wajir,8,Wajir North,wajir north
+45,Wajir,Wajir,8,Wajir South,wajir south
+45,Wajir,Wajir,8,Wajir West,wajir west
+46,West Pokot,Kapenguria,24,Central Pokot,central pokot
+46,West Pokot,Kapenguria,24,North Pokot,north pokot
+46,West Pokot,Kapenguria,24,Pokot South,pokot south
+46,West Pokot,Kapenguria,24,West Pokot,west pokot
