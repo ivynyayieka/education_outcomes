@@ -1,0 +1,49 @@
+SN,County,number_of_pri_schools_by_2016,number_of_schools_w_complete_digital_devices,pct_installed
+1,Baringo,635,633,99.69
+2,Bomet,632,630,99.68
+3,Bungoma,741,741,100
+4,Busia,432,431,99.77
+5,Elgeyo/Marakwet,369,369,100
+6,Embu,381,381,100
+7,Garissa,163,153,93.87
+8,Homa Bay,875,875,100
+9,Isiolo,116,95,81.9
+10,Kajiado,395,394,99.75
+11,Kakamega,880,879,99.89
+12,Kericho,503,502,99.8
+13,Kiambu,481,481,100
+14,Kilifi,507,507,100
+15,Kirinyaga,199,199,100
+16,Kisii,697,696,99.86
+17,Kisumu,613,613,100
+18,Kitui,,,99.6
+19,Kwale,364,362,99.45
+20,Laikipia,292,289,98.97
+21,Lamu,93,91,97.85
+22,Machakos,837,835,99.76
+23,Makueni,887,887,100
+24,Mandera,198,198,100
+25,Marsabit,182,154,84.62
+26,Meru,714,712,99.72
+27,Migori,601,601,100
+28,Mombasa,96,94,97.92
+29,Murang a,514,512,99.61
+30,Nairobi,203,201,99.01
+31,Nakuru,691,689,99.71
+32,Nandi,709,709,100
+33,Narok,616,615,99.84
+34,Nyamira,407,407,100
+35,Nyandarua,350,344,98.29
+36,Nyeri,392,390,99.49
+37,Samburu,146,112,76.71
+38,Siaya,643,642,99.84
+39,Taita/Taveta,194,194,100
+40,Tana River,159,159,100
+41,Tharaka-Nithi,413,411,99.52
+42,Trans Nzoia,352,352,100
+43,Turkana,358,354,98.88
+44,Uasin Gishu,456,456,100
+45,Vihiga,378,378,100
+46,Wajir,211,211,100
+47,West Pokot,498,498,100
+,Total,,,99.3
