@@ -38,20 +38,20 @@ A cult I am henceforth willing to join
 # Sources
 Number of people with no education by county: 
 [Distribution of Population Age 3 Years and Above by School Attendance Status, Area of Residence, Sex, County and Sub-County:](https://s3-eu-west-1.amazonaws.com/s3.sourceafrica.net/documents/119795/VOLUME-IV-KPHC-2019.pdf)<br/>
-[County Government Revenues, 2020/21-2021/22:](https://www.knbs.or.ke/wp-content/uploads/2022/05/2022-Economic-Survey1.pdf)<br/>
+[County Government Revenues, 2020/21-2021/22](https://www.knbs.or.ke/wp-content/uploads/2022/05/2022-Economic-Survey1.pdf)<br/>
 
 Number of schools per square area.<br/>
 [Source for number of schools: Primary Schools, Total Enrolments & Average School Size, 2019](https://africacheck.org/sites/default/files/Kenya-Basic-Education-Statistical-Booklet-2019.pdf)<br/>
 [Source for area of county: Distribution of Population, Land Area and Population Density by County](https://www.knbs.or.ke/2019-kenya-population-and-housing-census-results/) <br/>
 
-[These are likely correlated with wealth but they exist (source also:](https://africacheck.org/sites/default/files/Kenya-Basic-Education-Statistical-Booklet-2019.pdf):<br/>
+[These are likely correlated with wealth but the data exists:](https://africacheck.org/sites/default/files/Kenya-Basic-Education-Statistical-Booklet-2019.pdf):<br/>
 Pupil -Teacher Ratio in public pre-primary, primary and secondary schools, 2019<br/>
 Public Lower Primary Textbooks Distribution by Grade and County, 2019<br/>
 Public Primary Schools with Electricity by County, 2019<br/>
 Number of Public Primary Schools Installed with Digital Devices<br/>
 Number of Complete Set of Digital Devices Installed in Primary Schools<br/>
-[Achievement in Numeracy and Literacy in NASMLA by County:](https://africacheck.org/sites/default/files/Kenya-Basic-Education-Statistical-Booklet-2019.pdf)<br/>
-[Left school or learning institution before completion:](https://s3-eu-west-1.amazonaws.com/s3.sourceafrica.net/documents/119795/VOLUME-IV-KPHC-2019.pdf)<br/>
+[Achievement in Numeracy and Literacy in NASMLA by County](https://africacheck.org/sites/default/files/Kenya-Basic-Education-Statistical-Booklet-2019.pdf)<br/>
+[Left school or learning institution before completion](https://s3-eu-west-1.amazonaws.com/s3.sourceafrica.net/documents/119795/VOLUME-IV-KPHC-2019.pdf)<br/>
 
 
 
