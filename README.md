@@ -29,7 +29,7 @@ I got the inspiration for an introduction guide above the maps from my project m
 #### Statistical analysis
 I tried to use new statistical methods, with Dhrumil and Aishi's guidance. eg linear regressions, multivariable regressions etc
 
-#### Scrollytelling
+#### Scrollytelling with ai2html images
 I knew attempting scrollytelling with a map that has ai2html script would be painful and it was but after many many days some magic worked and I am not touching it again in case it decides to revert.
 
 #### Tabula
