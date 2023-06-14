@@ -1,3 +1,4 @@
+# [Education Outcomes](https://ivynyayieka.github.io/education_outcomes/)
 For this project, I analysed factors associated with education outcomes in Kenya. 
 
 # How I analysed illiteracy rates
