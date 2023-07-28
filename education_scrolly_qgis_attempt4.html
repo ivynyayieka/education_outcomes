@@ -1,0 +1,551 @@
+<html>
+  <head>
+    <title>education trends</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+    <link rel="stylesheet" href="https://jenil.github.io/bulmaswatch/litera/bulmaswatch.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="icon" href="icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&family=Source+Serif+Pro&display=swap" rel="stylesheet">
+
+
+    <script src="https://unpkg.com/intersection-observer@0.5.1/intersection-observer.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollama/3.0.4/scrollama.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.3.0/d3.min.js"></script>
+
+    <style>
+
+
+
+        .container {
+                max-width: 750px !important;
+                color: black;
+                font-family: sans-serif;
+                font-size: 18px;
+              }
+
+              h1 {
+                font-family: sans-serif;
+                font-size: 36px;
+                font-weight: 600;
+              }
+
+              a {
+                color: black;
+                text-decoration: underline;
+              }
+
+              #scrolly {
+                position: relative;
+                padding: 1rem;
+              }
+
+              .scrolly-overlay {
+                position: relative;
+                padding: 0;
+                max-width: 35rem;
+                margin: 0 auto;
+              }
+
+              .sticky-thing {
+                position: -webkit-sticky;
+                position: sticky;
+                left: 0;
+                width: 100%;
+                margin: 0;
+                z-index: 0;
+                top: 0;
+                height: 100vh;
+                /* Center everything inside */
+                display: flex;
+                justify-content: center;
+                flex-direction: column;
+                justify-content: center;
+              }
+
+              .step {
+                margin: 0 auto 2rem auto;
+                margin-bottom: 25rem;
+                background-color: #eee;
+                background-color: #fff;
+                color: black;
+                font-family: sans-serif;
+                font-size: 16px;
+              }
+
+              .step p {
+                text-align: center;
+                padding: 1rem;
+                font-size: 1.25rem;
+              }
+
+              .hidden { visibility: hidden; }
+
+
+
+
+
+
+
+
+                          /* When it's less than 700 pixels wide, do normal scrollytelling */
+                @media only screen and (min-width: 700px) {
+                  #scrolly.side-by-side {
+                    display: flex;
+                  }
+
+                  #scrolly.side-by-side > div {
+                    flex-basis: 0;
+                    flex-grow: 1;
+                    flex-shrink: 1;
+                    padding: 0.75em;
+                  }
+
+                  #scrolly.side-by-side .scrolly-overlay {
+                    margin-top: 70vh;
+                    order: 0;
+                    /* Change these to adjust sizing options */
+                    min-width: 15rem;
+                    max-width: 20rem;
+                  }
+
+                  #scrolly.side-by-side .sticky-thing {
+                    order: 1;
+                    flex-grow: 2;
+                  }
+                }
+
+                #g-viz-Artboard_1-negative-img {
+                  opacity: 80%;
+                }
+
+                #g-viz-Artboard_2-negative-img {
+                  opacity: 80%;
+                }
+
+                #g-viz-Artboard_3-negative-img {
+                  opacity: 80%;
+                }
+
+                #g-viz-Artboard_1-positive-img {
+                  opacity: 80%;
+                }
+
+                #g-viz-Artboard_2-positive-img {
+                  opacity: 80%;
+                }
+
+                #g-viz-Artboard_3-positive-img {
+                  opacity: 80%;
+                }
+
+
+
+
+
+
+
+
+
+              /* set the width of the image */
+              img {
+                max-width: 100%;
+                height: auto;
+              }
+          
+              /* hide the large image when the screen width is below 768px */
+              @media only screen and (max-width: 767px) {
+                .large-image {
+                  display: none;
+                  background-color: lightpink;
+                }
+              }
+          
+              /* hide the small image when the screen width is 768px or above */
+              @media only screen and (min-width: 768px) {
+                .small-image {
+                  display: none;
+                }
+                  @media only screen and (min-width: 768px) {
+                      .column-container {
+                                    width: 34%;
+                                  }
+                  }
+              }
+
+    </style>
+
+
+
+  </head>
+  <body>
+    <div>
+    <section class="hero is-medium is-dark">
+        <div class="hero-body">
+          <h1 class="title is-2">
+            education trends
+          </h1>
+          <!-- <p class="subtitle">
+            nairobi city may be full of problems but it gifts residents two things: consistent sunshine and temperature
+          </p> -->
+        </div>
+    </section>
+        
+    </section>
+
+    <div class="content" id="content">
+
+    <!-- <hr> -->
+    <!-- <div class="card"> -->
+      <!-- <div class="card-image"> -->
+
+        <div class="columns is-multiline is-mobile">
+            <!-- <div class="column is-one-quarter">
+              <button class="button is-dark"><a href="https://ivynyayieka.github.io/data_journ_website/">Check out more of my stories</a></button>
+            </div> -->
+
+          <div class="column">
+            <!-- <h1 class="title is-4">Recent Data Journalism Projects</h1> -->
+            <div class>
+              <div class="buttons">
+                  <div>
+                    <div class="columns is-multiline is-mobile">
+                        <div class="columns is-mobile">
+                           
+                          </div>                          
+                      </div>
+
+                      <!-- <p class="title">In the world</p> -->
+                      <p>Education trends across Kenya by county</p>
+                      <!-- <iframe title="Books challenged or banned in the U.S. have nearly doubled in the last school year" aria-label="Bar Chart" id="datawrapper-chart-Ppfvq" src="https://datawrapper.dwcdn.net/Ppfvq/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="151" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+                      </script> -->
+
+                      <!-- <div class="flourish-embed flourish-map" data-src="visualisation/13436064"><script src="https://public.flourish.studio/resources/embed.js"></script></div> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                              <div class="body-text">
+                                <!-- <p class="title">In Texas</p> -->
+                                <p>
+                                  How different factors affect education outcomes in Kenyan counties
+                                </p>
+                                
+                              </div>
+                              <section id="scrolly" class="scrolly-container">
+                                <div class="sticky-thing">
+                                
+                                  <div id="never_been_to_school">
+                                  
+                                    <!-- Generated by ai2html v0.115.5 - 2023-04-25 15:32 -->
+                                    <!-- ai file: illiteracy_layout.svg -->
+                                    <style media="screen,print">
+                                      #g-illiteracy_layout_svg-box ,
+                                      #g-illiteracy_layout_svg-box .g-artboard {
+                                        margin:0 auto;
+                                      }
+                                      #g-illiteracy_layout_svg-box p {
+                                        margin:0;
+                                      }
+                                      #g-illiteracy_layout_svg-box .g-aiAbs {
+                                        position:absolute;
+                                      }
+                                      #g-illiteracy_layout_svg-box .g-aiImg {
+                                        position:absolute;
+                                        top:0;
+                                        display:block;
+                                        width:100% !important;
+                                      }
+                                      #g-illiteracy_layout_svg-box .g-aiSymbol {
+                                        position: absolute;
+                                        box-sizing: border-box;
+                                      }
+                                      #g-illiteracy_layout_svg-box .g-aiPointText p { white-space: nowrap; }
+                                      #g-illiteracy_layout_svg-Artboard_1 {
+                                        position:relative;
+                                        overflow:hidden;
+                                      }
+
+                                    </style>
+
+                                    <div id="g-illiteracy_layout_svg-box" class="ai2html">
+
+                                      <!-- Artboard: Artboard_1 -->
+                                      <div id="g-illiteracy_layout_svg-Artboard_1" class="g-artboard" style="max-width: 750px;max-height: 550px" data-aspect-ratio="1.364" data-min-width="0">
+                                    <div style="padding: 0 0 73.3333% 0;"></div>
+                                        <img id="g-illiteracy_layout_svg-Artboard_1-img" class="g-illiteracy_layout_svg-Artboard_1-img g-aiImg" alt="" src="illiteracy_layout_svg-Artboard_1.jpg"/>
+                                      </div>
+
+                                    </div>
+
+                                    <!-- End ai2html - 2023-04-25 15:32 -->
+                             
+                                  </div>
+                                  
+
+
+
+
+
+
+
+
+
+                                  <div id="left_school_before_completing">
+                                    
+                                    <!-- Generated by ai2html v0.115.5 - 2023-04-25 15:25 -->
+                                    <!-- ai file: dropout.svg -->
+                                    <style media="screen,print">
+                                      #g-dropout_svg-box ,
+                                      #g-dropout_svg-box .g-artboard {
+                                        margin:0 auto;
+                                      }
+                                      #g-dropout_svg-box p {
+                                        margin:0;
+                                      }
+                                      #g-dropout_svg-box .g-aiAbs {
+                                        position:absolute;
+                                      }
+                                      #g-dropout_svg-box .g-aiImg {
+                                        position:absolute;
+                                        top:0;
+                                        display:block;
+                                        width:100% !important;
+                                      }
+                                      #g-dropout_svg-box .g-aiSymbol {
+                                        position: absolute;
+                                        box-sizing: border-box;
+                                      }
+                                      #g-dropout_svg-box .g-aiPointText p { white-space: nowrap; }
+                                      #g-dropout_svg-Artboard_1 {
+                                        position:relative;
+                                        overflow:hidden;
+                                      }
+
+                                    </style>
+
+                                    <div id="g-dropout_svg-box" class="ai2html">
+
+                                      <!-- Artboard: Artboard_1 -->
+                                      <div id="g-dropout_svg-Artboard_1" class="g-artboard" style="max-width: 750px;max-height: 550px" data-aspect-ratio="1.364" data-min-width="0">
+                                    <div style="padding: 0 0 73.3333% 0;"></div>
+                                        <img id="g-dropout_svg-Artboard_1-img" class="g-dropout_svg-Artboard_1-img g-aiImg" alt="" src="dropout_svg-Artboard_1.jpg"/>
+                                      </div>
+
+                                    </div>
+
+                                    <!-- End ai2html - 2023-04-25 15:25 -->
+
+                                  </div>
+
+
+
+
+
+
+
+                                  
+                                  <div id="bivariate"><
+                                    
+                                    <!-- Generated by ai2html v0.115.5 - 2023-04-25 15:01 -->
+                                    <!-- ai file: bivariate_attempt2_750550.ai -->
+                                    <style media="screen,print">
+                                      #g-bivariate_attempt2_750550-box ,
+                                      #g-bivariate_attempt2_750550-box .g-artboard {
+                                        margin:0 auto;
+                                      }
+                                      #g-bivariate_attempt2_750550-box p {
+                                        margin:0;
+                                      }
+                                      #g-bivariate_attempt2_750550-box .g-aiAbs {
+                                        position:absolute;
+                                      }
+                                      #g-bivariate_attempt2_750550-box .g-aiImg {
+                                        position:absolute;
+                                        top:0;
+                                        display:block;
+                                        width:100% !important;
+                                      }
+                                      #g-bivariate_attempt2_750550-box .g-aiSymbol {
+                                        position: absolute;
+                                        box-sizing: border-box;
+                                      }
+                                      #g-bivariate_attempt2_750550-box .g-aiPointText p { white-space: nowrap; }
+                                      #g-bivariate_attempt2_750550-Artboard_1 {
+                                        position:relative;
+                                        overflow:hidden;
+                                      }
+
+                                    </style>
+
+                                    <div id="g-bivariate_attempt2_750550-box" class="ai2html">
+
+                                      <!-- Artboard: Artboard_1 -->
+                                      <div id="g-bivariate_attempt2_750550-Artboard_1" class="g-artboard" style="max-width: 750px;max-height: 550px" data-aspect-ratio="1.364" data-min-width="0">
+                                    <div style="padding: 0 0 73.3333% 0;"></div>
+                                        <img id="g-bivariate_attempt2_750550-Artboard_1-img" class="g-bivariate_attempt2_750550-Artboard_1-img g-aiImg" alt="" src="bivariate_attempt2_750550-Artboard_1.jpg"/>
+                                      </div>
+
+                                    </div>
+
+                                    <!-- End ai2html - 2023-04-25 15:01 -->
+               
+                                  </div>
+
+
+
+
+
+
+
+
+
+
+                          
+                                </div>
+                          
+                                <div class="steps-container">
+                                  <div class="step" id="step0">
+                                    <p>Garissa, Mandera, Wajir, Marsabit and Turkana have a high rate of people who have never been to school.</p>
+                                  </div>
+                                  <div class="step" id="step1">
+                                    <p>West Pokot has the highest dropout rate. Counties such as Garissa, Wajir, Mandera and Marsabit which have among the highest number of people who have never been to school have low drop out rates relative to the rest</p>
+                                    <!-- <iframe title="Authors in Texas Krause top list " aria-label="Bar Chart" id="datawrapper-chart-KyyKI" src="https://datawrapper.dwcdn.net/KyyKI/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="245" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+                                    </script> -->
+                                  </div>
+                                  <div class="step" id="step2">
+                                    <p>In  counties with the lowest education acces, people who do go to school are then more likely to finish school</p>
+                                  </div>
+                                  
+                              </section>
+                              <div class="body-text">
+                                <p>
+                                  On low drop out rates in areas with lower access to education: It appears the counties with the lowest access to education seem to have lower dropout rates for those who do attend school. Look at Garissa, Wajir, Mandera and Isiolo, for instance. They have drop out rates nearly as low as Kiambu, Mombasa and Nairobi's where access to education is higher. That is, among people who have ever been to school in the counties with low access to education, people were less likely to drop out once they began school than in the counties where education may be more accessible. On the other hand, that means, people in these counties with low education access who have been to school are then more likely to finish school.
+                                </p>
+                                
+                              </div>
+                          
+                              <script>
+                                
+                              //  scrollytelling code goes here
+                              d3.select("#step1").on('stepin', function() {
+                                console.log("got to step 1")
+                                /* For each step where you change graphics
+                                you'll need a .classed('hidden'...
+                                for every iframe you added above.
+                                I have two charts, so I have two of these */
+                                
+                                /* Hide the first chart, show the second chart */
+                                d3.select("#never_been_to_school").classed('none', true)
+                                d3.select("#left_school_before_completing").classed('none', false)
+                                d3.select("#bivariate").classed('none', true)
+                                // d3.select("#public_enrollment").classed('hidden', true)
+                              })
+                        
+                              d3.select("#step2").on('stepin', function() {
+                                console.log("got to step 2")
+                                /* For each step where you change graphics
+                                you'll need a .classed('hidden'...
+                                for every iframe you added above.
+                                I have two charts, so I have two of these */
+                                
+                                /* Hide the first chart, show the second chart */
+                                d3.select("#never_been_to_school").classed('none', true)
+                                d3.select("#left_school_before_completing").classed('none', true)
+                                d3.select("#bivariate").classed('none', false)
+                                // d3.select("#public_enrollment").classed('hidden', true)
+                              })
+
+                              d3.select("#step0").on('stepin', function() {
+                                console.log("got to step 0")
+                                /* For each step where you change graphics
+                                you'll need a .classed('hidden'...
+                                for every iframe you added above.
+                                I have two charts, so I have two of these */
+                                
+                                /* Hide the first chart, show the second chart */
+                                d3.select("#never_been_to_school").classed('none', false)
+                                d3.select("#left_school_before_completing").classed('none', true)
+                                d3.select("#bivariate").classed('none', true)
+                                // d3.select("#public_enrollment").classed('hidden', true )
+                              })
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                            </script>
+                          
+                              <script>
+                                const scroller = scrollama()
+                          
+                                scroller
+                                  .setup({
+                                    step: "#scrolly .steps-container .step",
+                                    offset: 0.75,
+                                    // turn this to true if you want the lines to show where you are
+                                    debug: false,
+                                  })
+                                  .onStepEnter(function ({ element, index, direction }) {
+                                    const event = new CustomEvent("stepin", { detail: { direction: direction } })
+                                    element.dispatchEvent(event)
+                                  })
+                                  .onStepExit(function ({ element, index, direction }) {
+                                    const event = new CustomEvent("stepout", { detail: { direction: direction } })
+                                    element.dispatchEvent(event)
+                                  })
+                          
+                                window.addEventListener("resize", scroller.resize)
+                              </script>
+
+                      
+
+
+
+
+
+
+                      
+                      
+
+                      <div class="columns is-gapless">
+                        <div class="column is-half">
+                            <button class="button is-dark"><a href="https://github.com/ivynyayieka/banned_books#readme">Check out the analysis</a></button>
+                        </div>
+                        <div class="column">
+                            <button class="button is-dark"><a href="https://ivynyayieka.github.io/data_journ_website/">Check out more of my stories</a></button>
+                        </div>
+                      </div>
+
+                  </div>
+
+                </div>
+            </div>
+          </div>
+        </div>
+          
+  </body>
+</html>
