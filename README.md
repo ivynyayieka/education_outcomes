@@ -29,8 +29,8 @@ I got the inspiration for an introduction guide above the maps from my project m
 
 #### Statistical analysis
 I tried to use new statistical methods, with Dhrumil and Aishi's guidance. eg linear regressions, multivariable regressions etc
-* [Basic Regressions]([https://ivynyayieka.github.io/education_outcomes/](https://github.com/ivynyayieka/education_outcomes/blob/main/education_basic_regressions.ipynb))
-* [Analysis]([https://github.com/ivynyayieka/education_outcomes/blob/main/main_analysis.ipynb))
+* [Basic Regressions](https://github.com/ivynyayieka/education_outcomes/blob/main/education_basic_regressions.ipynb)
+* [Analysis](https://github.com/ivynyayieka/education_outcomes/blob/main/main_analysis.ipynb)
 
 
 #### Scrollytelling with ai2html images
